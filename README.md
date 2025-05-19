@@ -24,3 +24,8 @@ The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinica
 ├── README.md
 ├── LICENSE
 └── requirements.txt     # Python dependencies
+
+
+## Citation
+-----------------------------------------------------------
+If you use this codebase, please cite our paper (coming soon).
