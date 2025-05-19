@@ -26,7 +26,7 @@ If you use this codebase, please cite our paper (coming soon).
 
 ```text
 ├── src/                
-├── supplementary_materials/
+├── Supplementary_material/
 ├── README.md
 ├── LICENSE
 └── requirements.txt     # Python dependencies
