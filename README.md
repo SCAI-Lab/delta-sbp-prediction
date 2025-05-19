@@ -16,6 +16,12 @@ The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinica
 
 ---
 
+
+##  Citation
+If you use this codebase, please cite our paper (coming soon).
+
+---
+
 ##  Repository Structure
 
 ```text
@@ -26,7 +32,4 @@ The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinica
 └── requirements.txt     # Python dependencies
 
 
----
 
-##  Citation
-If you use this codebase, please cite our paper (coming soon).
