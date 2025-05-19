@@ -20,7 +20,7 @@ The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinica
 
 ```text
 ├── src/                
-├── supplementary_materials
+├── supplementary_materials/
 ├── README.md
 ├── LICENSE
 └── requirements.txt     # Python dependencies
