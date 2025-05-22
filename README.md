@@ -12,7 +12,7 @@ We propose a hybrid CNN–BiLSTM–attention model that fuses:
 - **Electrocardiogram (ECG)**
 - **Demographic features** (e.g., age, gender, BMI)
 
-The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinical **SCI (Spinal Cord Injury) cohort** via transfer learning. It satisfies international standards for BP monitoring systems (AAMI, BHS, IEEE 1708a-2019).
+The model is pretrained on the **Aurora BP dataset** and fine-tuned on a clinical **SCI (Spinal Cord Injury) cohort** using **SCAI-BP dataset** via transfer learning. It satisfies international standards for BP monitoring systems (AAMI, BHS).
 
 ---
 
